@@ -1,0 +1,14 @@
+training_episodes: 1000
+test_episodes: 300
+render: False
+learning_rate: 0.0005
+discount_factor: 0.99
+eps: 1.0
+eps_dec: 0.0001
+eps_min: 0.01
+batch_size: 64
+replace_target_network_cntr: 100
+fc1_dims: 128
+fc2_dims: 128
+mem_size: 100000
+env_name: "LunarLander-v2"
