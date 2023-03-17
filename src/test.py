@@ -2,7 +2,7 @@
 
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # tf info, warning and error messages are not printed
-import gym
+import gymnasium as gym
 import logging
 from logging import config
 import numpy as np
