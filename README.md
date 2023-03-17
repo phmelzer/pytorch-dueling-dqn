@@ -1,6 +1,6 @@
 # pytorch-dueling-dqn
 
-Implementation of a dueling-dqn agent using pytorch and the openai gym environments.
+Implementation of a dueling-dqn agent using pytorch and the gmynasium (openai gym) environments. https://gymnasium.farama.org/
 
 # Train agent
 
